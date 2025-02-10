@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgetOppsett", "EgetOppsett\EgetOppsett.csproj", "{042DA66E-E151-4794-BC99-A16AB12B2B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Losningforslag", "Losningforslag\Losningforslag.csproj", "{4448A4CC-E753-44D9-975C-A5171F9523F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042DA66E-E151-4794-BC99-A16AB12B2B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042DA66E-E151-4794-BC99-A16AB12B2B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042DA66E-E151-4794-BC99-A16AB12B2B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042DA66E-E151-4794-BC99-A16AB12B2B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4448A4CC-E753-44D9-975C-A5171F9523F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4448A4CC-E753-44D9-975C-A5171F9523F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4448A4CC-E753-44D9-975C-A5171F9523F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4448A4CC-E753-44D9-975C-A5171F9523F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
