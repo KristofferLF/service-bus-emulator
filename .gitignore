@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QueueApp/.vs
+/QueueApp/obj
+/QueueApp/bin/Debug/net9.0
+/QueueApp/bin/Debug/net8.0
