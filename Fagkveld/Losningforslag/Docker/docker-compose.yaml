@@ -21,7 +21,7 @@ services:
   sqledge:
         container_name: "sqledge"
         # image: "mcr.microsoft.com/azure-sql-edge:latest"
-        image: "lokal_sql_edge"
+        image: "lokal_sql_edge:latest"
         networks:
           sb-emulator:
             aliases:
